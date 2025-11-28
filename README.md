@@ -1,4 +1,4 @@
-**Sanitized Sample Code**
+**Sanitized Sample Code:**
 This repository contains **sanitized example code** demonstrating key components from my health-data engineering work:
 
 - A small FastAPI app (`app/main.py`) showing privacy-aware endpoints
