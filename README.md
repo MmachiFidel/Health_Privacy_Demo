@@ -1,4 +1,4 @@
-# Fidelia Ivoke — Sanitized Sample Code
+**Sanitized Sample Code**
 This repository contains **sanitized example code** demonstrating key components from my health-data engineering work:
 
 - A small FastAPI app (`app/main.py`) showing privacy-aware endpoints
@@ -17,5 +17,5 @@ uvicorn app.main:app --reload
 ```
 
 ## Notes
-- All data handling is **sanitized** and uses fabricated/example data only.
+- All data handling is **sanitized** and uses example data only.
 - This is a demonstration scaffold you can extend for real projects.
